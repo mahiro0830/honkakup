@@ -18,6 +18,11 @@
                 <td>複数の値をラベル付きで保存する</td>
                 <td><a href="data/array2.php">data/array2.php</a></td>
             </tr>
+            <tr>
+                <th>2-2-10</th>
+                <td>PHPにとっては配列も連想配列も同じ</td>
+                <td><a href="data/array2.php">data/array2.php</a></td>
+            </tr>
         </tbody>
     </table>
 </body>
