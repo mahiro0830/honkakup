@@ -23,6 +23,11 @@
                 <td>PHPにとっては配列も連想配列も同じ</td>
                 <td><a href="data/array2.php">data/array2.php</a></td>
             </tr>
+            <tr>
+                <th>2-2-11</th>
+                <td>配列を高いそうにする　ー多次元配列</td>
+                <td><a href="data/array3.php">data/array3.php</a></td>
+            </tr>
         </tbody>
     </table>
 </body>
